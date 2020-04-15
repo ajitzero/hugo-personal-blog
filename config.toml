@@ -1,0 +1,34 @@
+baseurl = "https://ajitpanigrahi.com"
+languageCode = "en-us"
+title = "Ajit Panigrahi · @AjitZero"
+
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+footnotereturnlinkcontents = "↩"
+paginate = 5
+
+[permalinks]
+    post = "/:filename/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+[params]
+    footer = "&copy; [Ajit Panigrahi](https://ajitpanigrahi.com) 2019 - 2020 | [Github](https://github.com/AjitZero) | [Twitter](https://twitter.com/AjitZero)"
