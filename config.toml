@@ -31,4 +31,4 @@ paginate = 5
     url = "/index.xml"
 
 [params]
-    footer = "&copy; [Ajit Panigrahi](https://ajitpanigrahi.com) 2019 - 2020 | [Github](https://github.com/AjitZero) | [Twitter](https://twitter.com/AjitZero)"
+    footer = "&copy; [Ajit Panigrahi](https://ajitpanigrahi.com) 2019 - 2020 | [Twitter](https://twitter.com/AjitZero) | [LinkedIn](https://linkedin.com/in/AjitZero) | [Github](https://github.com/AjitZero)"
