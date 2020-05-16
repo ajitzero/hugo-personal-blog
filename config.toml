@@ -2,7 +2,7 @@ baseurl = "https://ajitpanigrahi.com"
 languageCode = "en-us"
 title = "Ajit Panigrahi · @AjitZero"
 
-googleAnalytics = ""
+googleAnalytics = "UA-154019387-1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 footnotereturnlinkcontents = "↩"
 paginate = 5
